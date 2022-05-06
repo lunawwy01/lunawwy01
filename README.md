@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 📚 I'm majoring in business and computer science
 - 💻 I'm currently learning java software development and python data structures
 - 🗓 I'm a bullet journal enthusiast
+- 📫 How to reach me: lunawang1004@gmail.com
