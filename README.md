@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Luna 👋
 
 <!--
 **lunawwy01/lunawwy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫 I'm a student at the University of British Columbia
+- 📚 I'm majoring in business and computer science
+- 💻 I'm currently learning java software development and python data structures
+- 🗓 I'm a bullet journal enthusiast
