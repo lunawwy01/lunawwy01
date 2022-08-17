@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🏫 I'm a student at the University of British Columbia
 - 📚 I'm majoring in business and computer science
-- 💻 I'm currently learning java software development & JavaScript
+- 💻 I'm currently learning web development
 - 🗓 I'm a bullet journal enthusiast
 - 💼 My LinkedIn: https://www.linkedin.com/in/luna-wang-wwy/
 - 📫 How to reach me: lunawang1004@gmail.com
